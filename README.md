@@ -1,3 +1,5 @@
+![Screenshot](Capture_1.PNG)
+
 # Vue, Tailwind - Task Tracker
 
 This is a project built in Vue while using Tailwind for CSS. This project contains barebones for the frontend (This DOES NOT include backend).
