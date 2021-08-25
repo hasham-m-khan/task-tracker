@@ -1,4 +1,6 @@
-# task-tracker
+# Vue, Tailwind - Task Tracker
+
+This is a project built in Vue while using Tailwind for CSS. This project contains barebones for the frontend (This DOES NOT include backend).
 
 ## Project setup
 ```
@@ -14,11 +16,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
